@@ -1,4 +1,5 @@
-public class PEuler2{
+//Euler Problem_2
+public class mucahidcelik{
     public static void main(String []args){
         int pre=1,post=1,sum=0 ;
 
